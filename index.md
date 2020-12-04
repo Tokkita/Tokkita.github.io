@@ -10,7 +10,7 @@ Koen Jochmans. My research interests are panel data econometrics, particularly f
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Shrinkage Estimatio of Nework Spillovers with Factor Structured Errors 
+Shrinkage Estimation of Nework Spillovers with Factor Structured Errors 
 ```
 
 
