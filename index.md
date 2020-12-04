@@ -10,6 +10,6 @@ Koen Jochmans. My research interests are panel data econometrics, particularly f
 
 <b> Shrinkage Estimation of Nework Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> <i> Submitted </i> <br> Paper, Supplement
 
-<b> Fixed T Estimation of Dynamic Panel Data Models with Interactive Fixed Effects </b> <br> <i> Working Ppaer </i> <br> Avaliable on Request
+<b> Fixed T Estimation of Dynamic Panel Data Models with Interactive Fixed Effects </b> <br> <i> Working Paper </i> <br> Avaliable on Request
 
 
