@@ -18,12 +18,13 @@
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        Researcher       
+        {% endif %}               
+       
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>        
         
-        <p> Faculty of Economics <br> University of Cambridge <br> Austin Roberts Building <br> Sidgwick Avenue <br> Cambridge <br> CB3 9DD </p>    
-
+        <p> <i class="fas fa-band-aid"></i> Faculty of Economics <br> University of Cambridge <br> Austin Roberts Building <br> Sidgwick Avenue <br> Cambridge <br> CB3 9DD </p>    
+  
         {% if site.show_downloads %}
         <ul class="downloads">          
         <a href="{{ site.github.zip_url }}"><abbr class="badge badge-primary">Download My CV</abbr></a>
