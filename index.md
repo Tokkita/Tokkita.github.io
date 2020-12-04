@@ -7,7 +7,7 @@ Koen Jochmans. My research interests are panel data econometrics, particularly f
 
 ### Research
 
-<b> Shrinkage Estimation of Nework Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> Submitted <br> Paper, Supplement
+<b> Shrinkage Estimation of Nework Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> <i> Submitted </i> <br> Paper, Supplement
 
 
 
