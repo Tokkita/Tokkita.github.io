@@ -1,4 +1,4 @@
-###
+<body>{INVISIBLE BOM HERE}...</body>
 
 I am presently in the final stages of completing a PhD in Economics at the University of
 Surrey, and have just taken up the position of Research Associate at the University of
