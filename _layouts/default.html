@@ -23,9 +23,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
-        <ul class="downloads">
-          <abbr class="badge badge-primary">Working Paper</abbr>
-          <li><a href="{{ site.github.zip_url }}">Download My CV</strong></a></li>
+        <ul class="downloads">          
+        <a href="{{ site.github.zip_url }}"><abbr class="badge badge-primary">Working Paper</abbr></a>
         </ul>
         {% endif %}
       </header>
