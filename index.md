@@ -7,11 +7,8 @@ Koen Jochmans. My research interests are panel data econometrics, particularly f
 
 ### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Shrinkage Estimation of Nework Spillovers with Factor Structured Errors 
-```
+
 
 
 
