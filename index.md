@@ -9,6 +9,6 @@ Cambridge on the project Inference in Microeconometric Methods. My research inte
 
 <b> Shrinkage Estimation of Nework Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> <i> Submitted </i> <br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
 
-<b> Fixed T Estimation of Dynamic Panel Data Models with Interactive Fixed Effects </b> <br> <i> Working Paper </i> <br> Avaliable on Request
+
 
 
