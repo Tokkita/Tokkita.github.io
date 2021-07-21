@@ -1,6 +1,0 @@
-## mosquito
-
-[back](./)
-
-
-
