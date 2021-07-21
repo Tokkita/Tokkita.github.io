@@ -1,50 +1,6 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-UK" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KXLR1GHML2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KXLR1GHML2');
-</script> 
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-
-
-      </header>
-      <section>
-
-      ## mosquito
+## mosquito
 
 [back](./)
 
-       <footer class="fixed-bottom">
-  <div class="container mt-0">
-    &copy; 2021 Ayden Higgins.
-  </div>
-</footer> 
-
-      </section>
-
-    </div>
-
-
-  </body>
-</html>
 
 
