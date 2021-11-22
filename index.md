@@ -11,3 +11,5 @@ Cambridge on the project Inference in Microeconometric Methods. My research inte
 <b> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </b> <br> <strong><a href="{{ FTIFE.pdf | prepend: '/assets/pdf/FTIFE/FTIFE.pdf' | relative_url | download }}">Paper</a></strong>
 
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
+
+
