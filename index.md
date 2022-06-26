@@ -12,6 +12,6 @@ Cambridge on the project Inference in Microeconometric Methods. My research inte
 
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
 
-<b> Joint Approximate Asymmetric Diagonalization of Non-orthogonal Matrices </b> (with K. Jochmans) <br> <strong><a href="{{ JASYD.pdf | prepend: '/assets/pdf/JASYD/JASYD.pdf' | relative_url | download }}">Paper</a></strong>
+<b> Joint Approximate Asymmetric Diagonalization by Non-orthogonal Matrices </b> (with K. Jochmans) <br> <strong><a href="{{ JASYD.pdf | prepend: '/assets/pdf/JASYD/JASYD.pdf' | relative_url | download }}">Paper</a></strong>
 
 <b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>
