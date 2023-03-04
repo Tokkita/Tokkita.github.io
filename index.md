@@ -24,5 +24,5 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Fixed Effects </b> 
 
-<b> Bootstrap inference for Spatial Models with Fixed Effects </b> 
+<b> Bootstrap Inference for Spatial Models with Fixed Effects </b> 
 
