@@ -14,7 +14,7 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 
 <b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> R&R, Econometric Theory </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
 
-<b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ test.pdf | prepend: '/' | relative_url | download }}">Paper</a></strong> 
+<b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ test.pdf | download }}">Paper</a></strong> 
 
 <b> Joint Approximate Asymmetric Diagonalization by Non-orthogonal Matrices </b> (with K. Jochmans) <br>  <strong><a href="{{ JASYD.pdf | prepend: '/assets/pdf/JASYD/JASYD.pdf' | relative_url | download }}">Paper</a></strong>
 
