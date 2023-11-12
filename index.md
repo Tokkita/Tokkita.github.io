@@ -8,11 +8,13 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <i> Journal of Econometrics </i> Forthcoming <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
-<b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <i> R&R Econometrica </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>
+<b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <i> R&R, Econometrica </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>,  <strong><a href="{{ Examples.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
 
-<b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R Journal of Econometrics </i> <br> <strong><a href="{{ MasterLatest.pdf | prepend: '/assets/pdf/FTIFE/MasterLatest.pdf' | relative_url | download }}">Paper</a></strong> 
+<b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ MasterLatest.pdf | prepend: '/assets/pdf/FTIFE/MasterLatest.pdf' | relative_url | download }}">Paper</a></strong> 
 
-<b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> R&R Econometric Theory </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
+<b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> R&R, Econometric Theory </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
+
+<b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ test.pdf | prepend: '/test.pdf' }}">Paper</a></strong> 
 
 <b> Joint Approximate Asymmetric Diagonalization by Non-orthogonal Matrices </b> (with K. Jochmans) <br>  <strong><a href="{{ JASYD.pdf | prepend: '/assets/pdf/JASYD/JASYD.pdf' | relative_url | download }}">Paper</a></strong>
 
@@ -22,7 +24,7 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 
 <b> Invariant Estimators for Panel Models with Factor Structures </b> 
 
-<b> Instrumental Variables for Dynamic Spatial Models with Interactive Fixed Effects </b> 
+<b>  </b> 
 
 <b> Bootstrap Inference for Spatial Models with Fixed Effects </b> 
 
