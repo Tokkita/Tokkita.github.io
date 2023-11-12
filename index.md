@@ -5,7 +5,7 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 ### Publications
 <b> Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> <i> Journal of Econometrics </i> 223(1) 66-87 <br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
 
-<b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <i> Journal of Econometrics </i> Forthcoming <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
+<b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <i> Journal of Econometrics </i> Forthcoming <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>,  <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
 
 ### Working Papers
 <b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <i> R&R Econometrica </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>
