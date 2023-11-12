@@ -22,7 +22,7 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 
 <b> Invariant Estimators for Panel Models with Factor Structures </b> 
 
-<b> Instrumental Variables for Dynamic Spatial Models with Interactive Fixed Effects </b> 
+<b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> 
 
 <b> Bootstrap Inference for Spatial Models with Fixed Effects </b> 
 
