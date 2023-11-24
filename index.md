@@ -8,7 +8,7 @@ I completed a PhD in Economics at the University of Surrey in 2021 and am presen
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <i> Journal of Econometrics </i> Forthcoming <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
-<b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <i> R&R, Econometrica </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>,  <strong><a href="{{ Examples.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
+<b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <i> Conditionally Accepted, Econometrica </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>,  <strong><a href="{{ Examples.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
 
 <b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ MasterLatest.pdf | prepend: '/assets/pdf/FTIFE/MasterLatest.pdf' | relative_url | download }}">Paper</a></strong> 
 
