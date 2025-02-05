@@ -9,7 +9,7 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 
 <b> Bootstrap inference for fixed-effect models </b> (with K. Jochmans) <br> <i> Econometrica </i> 92(2) 411-427 <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>,  <strong><a href="{{ Examples.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
 
-<b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> Forthcoming, Econometric Theory </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
+<b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> Econometric Theory, Forthcoming </i> <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
 <b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/IVIFE.pdf' | relative_url | download }}">Paper</a></strong> 
