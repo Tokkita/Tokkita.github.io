@@ -16,6 +16,8 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/IVIFE.pdf' }}">Paper</a></strong> 
 
+<b> Inference in Dynamic Models for Panel Data using the Moving Block Bootstrap </b> (with K. Jochmans) <br> <strong><a href="{{ blkboot.pdf | prepend:'/assets/pdf/BB/blkboot.pdf' }}">Paper</a></strong>   
+
 <b> Joint Approximate Asymmetric Diagonalization by Non-orthogonal Matrices </b> (with K. Jochmans) <br>  <strong><a href="{{ JASYD.pdf | prepend: '/assets/pdf/JASYD/JASYD.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Work in Progress
