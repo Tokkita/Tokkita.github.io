@@ -12,7 +12,7 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 <b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> Econometric Theory </i>Forthcoming <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
-<b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/IVIFE.pdf' | relative_url | download }}">Paper</a></strong> 
+<b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/FTIFE.pdf' | relative_url | download }}">Paper</a></strong> 
 
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/IVIFE.pdf' }}">Paper</a></strong> 
 
