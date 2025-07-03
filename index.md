@@ -22,11 +22,11 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 
 ### Work in Progress
 
+<b> Bootstrap for Panel Data Models with Interactive Effects </b> 
+
 <b> Short Panels with Interactive Fixed Effects and Weakly Exogenous Regressors </b> 
 
 <b> Invariant Estimators for Panel Models with Factor Structures </b> 
 
-<b>  </b> 
-
-<b> Bootstrap Inference for Spatial Models with Fixed Effects </b> 
+<b> Bootstrap Inference for Dynamic Spatial Models with Fixed Effects </b> 
 
