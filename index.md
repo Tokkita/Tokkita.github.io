@@ -1,6 +1,6 @@
 #  Ayden Higgins
 ## Senior Lecturer, University of Exeter
-I am a Senior Lecturer at the University of Exeter. My research mainly focuses on panel data econometrics, particularly factor models, spatial models and models of unobserved heterogeneity. I also work on bootstrap methods and their application to panel data. A catalogue of my research can be found below. Click <strong><a href="{{ CV.pdf | prepend: '/assets/pdf/CV/CV.pdf' | relative_url | download }}">here</a></strong> for a copy of my CV.  
+I am a Senior Lecturer at the University of Exeter. My research mainly focuses on panel data econometrics, particularly factor models, spatial models, and models of unobserved heterogeneity. I also work on resampling methods and particularly their application to panel data. A catalogue of my research can be found below. Click <strong><a href="{{ CV.pdf | prepend: '/assets/pdf/CV/CV.pdf' | relative_url | download }}">here</a></strong> for a copy of my CV.  
 
 ### Publications
 <b> Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> <i> Journal of Econometrics </i> 223(1) 66-87 <br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
@@ -12,6 +12,8 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 <b> Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) <br> <i> Econometric Theory </i>Forthcoming <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
+<b> Jackknife Inference for Fixed Effects Models </b> <br> <strong><a href="{{ JIFEM.pdf | prepend: '/JIFEM.pdf' }}">Paper</a></strong> 
+
 <b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong> 
 
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/IVIFE.pdf' }}">Paper</a></strong> 
