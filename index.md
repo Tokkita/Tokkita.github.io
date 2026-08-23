@@ -20,7 +20,7 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 <br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
 
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) 
-<br> <i> Journal of Econometrics </i> 237(1) 105462 (YEAR?)
+<br> <i> Journal of Econometrics </i> 237(1) 105462 (2023)
 <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
