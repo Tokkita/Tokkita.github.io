@@ -3,6 +3,9 @@
 I am a Senior Lecturer at the University of Exeter. My research mainly focuses on panel data econometrics, particularly factor models, spatial models, and models of unobserved heterogeneity. I also work on resampling methods and particularly their application to panel data. A catalogue of my research can be found below. Click <strong><a href="{{ CV.pdf | prepend: '/assets/pdf/CV/CV.pdf' | relative_url | download }}">here</a></strong> for a copy of my CV.  
 
 ### Publications
+<b> [Forthcoming] Panel Data Models with Interactive Fixed Effects and (Relatively) Small T </b> <br> 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> <br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong> 
+
 <b> [2025] Learning Markov Processes with Latent Variables from Longitudinal Data  </b> (with K. Jochmans) 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Econometric Theory </i> 42(3) 501-513
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Long/Long.pdf' | relative_url | download }}">Paper</a></strong>
@@ -21,7 +24,7 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
-<b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong> 
+
 
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/assets/pdf/IVIFE/IVIFE.pdf' }}">Paper</a></strong> 
 
