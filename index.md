@@ -15,13 +15,13 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 <br> <i> Econometrica </i> 92(2) 411-427 (2024)
 <br> <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>, <strong><a href="{{ Examples.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
 
-<b> Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) 
-<br> <i> Journal of Econometrics </i> 223(1) 66-87 (2023)
-<br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
-
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) 
 <br> <i> Journal of Econometrics </i> 237(1) 105462 (2023)
 <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
+
+<b> Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) 
+<br> <i> Journal of Econometrics </i> 223(1) 66-87 (2023)
+<br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
 
 ### Working Papers
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/assets/pdf/IVIFE/IVIFE.pdf' }}">Paper</a></strong> 
