@@ -3,7 +3,7 @@
 I am a Senior Lecturer at the University of Exeter. My research mainly focuses on panel data econometrics, particularly factor models, spatial models, and models of unobserved heterogeneity. I also work on resampling methods and particularly their application to panel data. A catalogue of my research can be found below. Click <strong><a href="{{ CV.pdf | prepend: '/assets/pdf/CV/CV.pdf' | relative_url | download }}">here</a></strong> for a copy of my CV.  
 
 ### Publications
-<b> Panel Data Models with Interactive Fixed Effects and (Relatively) Small T </b> 
+<b> Panel Data Models with Interactive Fixed Effects and (Relatively) Small&nbsp;T </b>
 <br> <i> Journal of Econometrics </i> Forthcoming 
 <br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong> 
 
