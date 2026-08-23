@@ -7,7 +7,7 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 .pub { padding-left: 3.5em; text-indent: -3.5em; }
 </style>
 
-<div class="pub">
+<div style="padding-left:3.5em; text-indent:-3.5em;">
 <b> [2023] Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> 
 <i> Journal of Econometrics </i> 223(1) 66-87 
 <br> <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
