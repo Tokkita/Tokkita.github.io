@@ -4,8 +4,8 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 
 ### Publications
 <b> [2023] Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> 223(1) 66-87 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> 223(1) 66-87 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
 </div>
 
 <b> Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) <br> <i> Journal of Econometrics </i> 237(1) 105462 <br> <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
