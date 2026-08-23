@@ -12,13 +12,13 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Bootstrap.pdf | prepend: '/assets/pdf/Boot/Bootstrap.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Boot/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>,  <strong><a href="{{ Examples.pdf | prepend: '/assets/pdf/Boot/Examples.pdf' | relative_url | download }}">Examples</a></strong>
 
 <b> [2023] Shrinkage Estimation of Network Spillovers with Factor Structured Errors </b> (with F. Martellosio) <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> 223(1) 66-87 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> 223(1) 66-87 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Master.pdf | prepend: '/assets/pdf/Shrinkage/Master.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ Supplement.pdf | prepend: '/assets/pdf/Shrinkage/Supplement.pdf' | relative_url | download }}">Supplement</a></strong>
 </div>
 
-<b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> 237(1) 105462 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
+<b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identification of Mixtures of Dynamic Discrete Choices </b> (with K. Jochmans) 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i> Journal of Econometrics </i> 237(1) 105462 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="{{ Mixture.pdf | prepend: '/assets/pdf/Mixture/Mixture.pdf' | relative_url | download }}">Paper</a></strong>
 
 ### Working Papers
 <b> Panel Data Models with Interactive Fixed Effects and Relatively Small T </b> <br> Previously circulated as <i> Fixed T Estimation of Linear Panel Data Models with Interactive Fixed Effects </i> <br> <i> R&R, Journal of Econometrics </i> <br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong> 
