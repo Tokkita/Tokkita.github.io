@@ -30,7 +30,7 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 
 <b> Instrumental Variables for Dynamic Spatial Models with Interactive Effects </b> <br> <strong><a href="{{ IVIFE.pdf | prepend: '/assets/pdf/IVIFE/IVIFE.pdf' }}">Paper</a></strong> 
 
-<b> Jackknife Inference for Nonparametric and Semiparametric Modelss </b> <br> <strong><a href="{{ NPAR.pdf | prepend: '/assets/pdf/NPAR/NPAR.pdf' }}">Abstract</a></strong> 
+<b> Jackknife Inference for Nonparametric and Semiparametric Models </b> <br> <strong><a href="{{ NPAR.pdf | prepend: '/assets/pdf/NPAR/NPAR.pdf' }}">Abstract</a></strong> 
 
 <b> Joint Approximate Asymmetric Diagonalization by Non-orthogonal Matrices </b> (with K. Jochmans) <br>  <strong><a href="{{ JASYD.pdf | prepend: '/assets/pdf/JASYD/JASYD.pdf' | relative_url | download }}">Paper</a></strong>
 
