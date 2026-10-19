@@ -4,8 +4,8 @@ I am a Senior Lecturer at the University of Exeter. My research mainly focuses o
 
 ### Publications
 <b> Panel Data Models with Interactive Fixed Effects and (Relatively) Small&nbsp;<i>T</i> </b>
-<br> <i> Journal of Econometrics </i> Forthcoming 
-<br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong> 
+<br> <i> Journal of Econometrics </i> 258 (2026) 106314
+<br> <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_FIN.pdf' | relative_url | download }}">Paper</a></strong>, <strong><a href="{{ SPIFE_FIN.pdf | prepend: '/assets/pdf/FTIFE/SPIFE_SUPP.pdf' | relative_url | download }}">Supplement</a></strong> 
 
 <b> Learning Markov Processes with Latent Variables from Longitudinal Data </b> (with K. Jochmans) 
 <br> <i> Econometric Theory </i> 42(3) 501-513 (2025)
